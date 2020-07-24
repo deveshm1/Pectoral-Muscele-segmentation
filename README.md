@@ -1,4 +1,4 @@
-# Pectoral-Muscele-segmentation
+# Pectoral-Muscle-segmentation
 # Pectoral Muscle Removal from Mammograms
 <div> 
   Pectoral segmentation is important as the pectoral muscle region and the breast region may have similar intensity or texture appearance. Both the the tumor cells and pectoral muscle region tend to be brighter (more dense) than the breast region in the mammogram.
