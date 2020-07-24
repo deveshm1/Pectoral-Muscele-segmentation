@@ -1,5 +1,4 @@
-# Pectoral-Muscle-segmentation
-# Pectoral Muscle Removal from Mammograms
+# Pectoral-Muscle-segmentation from Mammograms
 <div> 
   Pectoral segmentation is important as the pectoral muscle region and the breast region may have similar intensity or texture appearance. Both the the tumor cells and pectoral muscle region tend to be brighter (more dense) than the breast region in the mammogram.
 Thus, including the pectoral muscle region into breast density quantification may lead to inaccurate breast density estimation.
@@ -28,10 +27,7 @@ The Hough transform is a technique which can be used to isolate features of a pa
   <summary>Resources and references</summary>
   
   1. Github repo by [@anoo6527](https://github.com/anoo6527/PectoralMuscle_Removal)
-  2. Assignment by [Suven Consultants and Technology Pvt. Ltd.](https://www.linkedin.com/company/suven-consultants-and-technology-pvt-ltd/)
+  2. Science Direct article: https://www.sciencedirect.com/science/article/pii/S1361841518301129
   3. Paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6510623/
   4. Paper: https://core.ac.uk/download/pdf/82133766.pdf
-  5. Tutorial on Youtube: [Computer Vision Basics: Hough Transform | By Dr. Ry @Stemplicity](https://www.youtube.com/watch?v=6yVMpaIoxIU)
-  6. Scikit-Image [Hough Transform tutorial](https://scikit-image.org/docs/dev/auto_examples/edges/plot_line_hough_transform.html)
-  7. Science Direct article: https://www.sciencedirect.com/science/article/pii/S1361841518301129
 </details>
